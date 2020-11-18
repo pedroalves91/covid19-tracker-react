@@ -1,3 +1,8 @@
+# Covid-19 Tracker built with React
+## Using material-ui, chart.js, numeral and leaflet
+
+API from: https://disease.sh/docs/#/COVID-19%3A%20Worldometers/get_v3_covid_19_countries
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
